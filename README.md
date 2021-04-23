@@ -226,8 +226,9 @@ Learning Source: https://faradars.org/courses/fvgit9609-managed-distributed-edit
 - [Saeed Bayat :trollface: :sunglasses: ](https://github.com/01shadowalker01)
 - [Tooraj Jahangiri :hatching_chick:](https://github.com/Class-Tooraj)
 - [Tooraj Jahangiri :hatching_chick:](https://github.com/Class-Tooraj)
-- [Ali Hosseinverdi :heart_eyes:](https://github.com/Ali-Hosseinverdi)
+- [Ali Hosseinverdi :heart_eyes:](https://github.com/Ali-Hosseinverdi
 - [reyhaneh  :computer: ](https://github.com/reyhaneh-moayeri)
 - [Amir :sunglasses:](https://github.com/root-77)
 - [Alireza Safari:sunglasses:](https://github.com/alireza0sfr)
 - [Armin Nasirfam  :computer:  ](https://github.com/Armiin98)
+- [bazrafshan :v:  ](https://github.com/bazrafshanmh)
